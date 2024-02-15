@@ -1,3 +1,5 @@
+# Home_Sales
+
 This repository contains code for analyzing home sales data using PySpark in a Google Colab environment. The analysis includes various queries performed on the dataset, such as calculating average prices, filtering based on specific criteria, and determining runtime for queries. In order to complete this analysis I rellied heavily on the AI assistant in colab, I also choose to use Pandas style commands to SQL style commands as was learned in class as Pandas is prefered by my current coworkers. 
 
 Installation
@@ -37,8 +39,3 @@ Checking Cache Status: Verify if the table is no longer cached.
 Contributors
 [Your Name]
 Feel free to modify and extend this code for your own analysis. If you encounter any issues or have suggestions for improvements, please create an issue in the repository.
-
-
-
-
-# Home_Sales
